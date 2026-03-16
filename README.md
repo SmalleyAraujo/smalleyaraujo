@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Smalley%20Araujo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# 👋 Olá, eu sou o Smalley Araujo
+# 👋 Olá!
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+Formação;Java+%7C+PHP+%7C+JavaScript;Back-End+Java+%7C+APIs+REST;Bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Java+%7C+APIs+REST;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 # 📚 Formação
 
 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
-SENAC DF — Concluído (2024)
+Faculdade SENAC DF 
 
 🎓 **Técnico em Contabilidade**  
 SENAC Plano Piloto
